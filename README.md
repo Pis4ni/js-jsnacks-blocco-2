@@ -43,3 +43,14 @@ Crea un array di numeri interi e fai la somma di tutti gli elementi che sono in 
         - sommo il numero corrispondente al risultato
 - fine
 
+
+### SNACK 4
+- creo una lista di numeri a
+- creo una lista di numeri b
+- verifico quanto è il numero massimo di elementi nella lista piu' grande
+- creo un elemento vuoto da aggiungere alla lista minore fino a pareggio
+- **FINCHE** lista a è minore di lista b
+    - aggiungo l' elemento vuoto alla lista x volte fino a pareggio
+- **FINCHE** lista b è minore di lista a
+    - aggiungo l' elemento vuoto alla lista x volte fino a pareggio
+- fine
