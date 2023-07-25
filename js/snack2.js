@@ -1,5 +1,5 @@
 //creo una lista di nomi
-let names = ['paolo','luca','gino','asdrubale','melchiorre','alekos']
+let names = ['paolo ','luca ','gino ','asdrubale ','melchiorre ','alekos ']
 //creo una lista di cognomi
 let surnames = ['rossi','demetris','mura','yokohama','takeda','gojo']
 //creo una lista di nomi + cognomi casuali
@@ -15,3 +15,4 @@ for (let i = 0; i < names.length; i++) {
     randomNames[i]=names[i]+surnames[randomIndex];
     
 }
+console.log(randomNames)

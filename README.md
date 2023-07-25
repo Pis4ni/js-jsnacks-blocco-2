@@ -37,4 +37,9 @@ Crea un array di numeri interi e fai la somma di tutti gli elementi che sono in 
 
 ### SNACK 3
 - crea una lista di numeri interi
+- immagazino il risultato delle somme che inizialmente è 0
+- **PER OGNI** numero dell'indice lista di numeri interi
+    - **SE** è dispari
+        - sommo il numero corrispondente al risultato
+- fine
 
