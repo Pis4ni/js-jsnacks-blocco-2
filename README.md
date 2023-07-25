@@ -1,6 +1,5 @@
 # JS SNACKS
 js snacks exercice by pisani fabio
-9Bonus
 
 ## TRACCE
 
@@ -30,6 +29,10 @@ Crea un array di numeri interi e fai la somma di tutti gli elementi che sono in 
 - creo una lista di nomi
 - creo una lista di cognomi
 - creo una lista di nomi + cognomi casuali
+- **PER OGNI** nome dell array di nomi
+    - prendo un congome a caso dalla lista dei cognomi e lo unisco
+    - metto il nome + cognome ottenuto nella lista dei nomi random
+- fine.
 
 
 ### SNACK 3
