@@ -1,9 +1,9 @@
 // creo una lista di numeri a
-arrOne = [2,5,433,76,4,2]
+let arrOne = [2,5,433,76,4,2]
 // creo una lista di numeri b
-arrTwo = [456,756,445,6,43,45,3,456,3]
+let arrTwo = [456,756,445,6,43,45,3,456,3]
 // verifico quanto è il numero massimo di elementi nella lista piu' grande
-maxLenght = Math.max(arrOne.length, arrTwo.length)
+let maxLenght = Math.max(arrOne.length, arrTwo.length)
 // creo un elemento vuoto da aggiungere alla lista minore fino a pareggio
 empty = 0
 //FINCHE lista a è minore di lista b
